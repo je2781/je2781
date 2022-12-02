@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @je2781
 - 👀 I’m interested in web applications
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flutter
 
 <!---
 je2781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
